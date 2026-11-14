@@ -1,6 +1,6 @@
 
 // The Cozy Cup: menu data, category filters, search and mobile navigation.
-
+// Filter menu items by category and search phrase.
 const menuItems = [
  {
   name: "Classic Cappuccino",
